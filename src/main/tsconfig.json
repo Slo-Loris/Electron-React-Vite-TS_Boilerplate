@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "incremental": true,
+    "declarationDir": "../../build/libs/main",
+    "target": "ES2016",
+    "module": "CommonJS",
+    "outDir": "../../build/main",
+    "esModuleInterop": true
+  },
+  "extends": "../../tsconfig.json"
+}
